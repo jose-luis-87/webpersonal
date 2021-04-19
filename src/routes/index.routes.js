@@ -1,6 +1,5 @@
 import {pages} from '../controllers'
 
-
 let content = document.getElementById('root')
 
 const router = (route) => {

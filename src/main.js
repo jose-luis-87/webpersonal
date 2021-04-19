@@ -1,4 +1,4 @@
-import './main.scss'
+import '../src/scss/main.scss'
 import {router} from './routes/index.routes'
 
 router(window.location.hash)
